@@ -2,5 +2,5 @@
 
 * [Introduction](documentation/Introduction.md)
    * Altera
-* Altera
+* [Altera](documentation/Altera.md)
 
