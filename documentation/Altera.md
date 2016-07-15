@@ -5,3 +5,4 @@
 
 - [My First NIOS II Software](https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/tt/tt_my_first_nios_sw.pdf)
 - [Altera’s MAX® 10 FPGAs](https://www.altera.com/products/fpga/max-series/max-10/overview.html)
+- [Altera Training](https://www.altera.com/support/training/catalog.html?courseType=Online)
